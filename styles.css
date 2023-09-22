@@ -22,3 +22,4 @@ body {
 }
 
 .shape::before {
+    content: "";
