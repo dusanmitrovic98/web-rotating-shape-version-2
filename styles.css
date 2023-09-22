@@ -21,3 +21,4 @@ body {
     animation: spin 10s linear infinite, colorChange 10s ease-in-out infinite;
 }
 
+.shape::before {
