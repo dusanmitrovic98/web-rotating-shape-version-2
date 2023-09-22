@@ -10,3 +10,4 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    perspective: 800px;
