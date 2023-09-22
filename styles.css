@@ -31,3 +31,4 @@ body {
     transform: translateZ(-50px);
 }
 
+@keyframes spin {
