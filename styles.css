@@ -19,3 +19,4 @@ body {
     position: relative;
     transform-style: preserve-3d;
     animation: spin 10s linear infinite, colorChange 10s ease-in-out infinite;
+}
