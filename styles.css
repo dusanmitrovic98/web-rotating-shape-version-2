@@ -23,3 +23,4 @@ body {
 
 .shape::before {
     content: "";
+    position: absolute;
